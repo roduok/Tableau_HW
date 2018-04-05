@@ -80,7 +80,7 @@
 	* 1.14 Miles
 
 * Which Bikes (by ID) are most likely due for repair or inspection this year? 
-	* Bike ID: 27750, 25904, and 255 most likely due for repair
+	* Bike ID: 27750, 25904, and 255 most likely due for repair they all have usage distances of over 6,000 miles.
 
 * How variable is the utilization by bike ID?
 	* Very - a few bikes are utilized a lot, while the others are only used a handful of times.
@@ -96,5 +96,5 @@
 **Lastly, as a chronic over-achiever, you must also:**
 
 * Find at least two unexpected phenomena in the data and provide a visualization and analysis to document their presence. 
-	* One bike has been ridden over 10,000 miles. The next closest bike was ridden around 5,000 miles. 
-	* People bike to NJ. NJ isn't even a real state.
+	* It seems like most bikes are repaired once they reach 7,000 miles as there were no bike id's with usage over 7k.
+	* People bike to NJ which is really far and strange due to various ways of transportation in NY. 
