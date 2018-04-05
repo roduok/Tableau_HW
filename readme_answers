@@ -13,33 +13,33 @@
 	* did not do winter months
 
 * Today, what are the top 10 stations in the city for starting a journey? (Based on data, why do you hypothesize these are the top locations?)
-	* These stations are near popular subway and light rail stops/stations. For example, #1 is next to Union Stations, and the other top ones are near Penn Station, MSG, Union Square Park, etc.
+	* These stations are in high dense areas and are near popular subway and light rail stops/stations. For example a couple are next to Union Stations,  Union Square Park, Penn Station, etc.
 	* In order of popularity: 	1) Pershing Square North
-					2) W21 ST & 6 Ave
+					2) West St & Chambers St
 					3) E 17 St & Broadway
-					4) Broadway & E 22 St
-					5) 8 Ave & W 31 St
-					6) Broadway & E14 St
-					7) 8 Ave & W 33 St
-					8) W 41 St & 8 Ave
-					9) Lafayette St & E 8 St
-					10)W 38 St & 8 Ave
+					4) 12 ave & W 40 St
+					5) W 21 St & 6 Ave 
+					6) Broadway & E22 St
+					7) W 20 St 11 Ave
+					8) 8 Ave & W 31st
+					9) 8 Ave & W 33st
+					10)Broadway & E 14 st
 
 * Today, what are the top 10 stations in the city for ending a journey? (Based on data, why?)
-	* Same as above. Pretty much all are by subway stops. One of them is by Battery Park which is along the bike path by the water and also near the World Trade Center Memorial and One World Trade Building.
+	* Same as above.
 	* In order of popularity: 	1) Pershing Square North
-					2) Broadway & E 22 St
+					2) West St & Chambers St
 					3) E 17 St & Broadway
-					4) W 21 St & 6 Ave
-					5) 8 Ave & W 31 St
-					6) Broadway & E14 St
-					7) West St & Chambers St
-					8) 8 Ave & W 33 St
-					9) Lafayette St & E 8 St
-					10)W 38 St & 8 Ave
+					4) 12 ave & W 40 St
+					5) Broadway & E22 St
+					6) W 21 St & 6 Ave 
+					7) W 20 St 11 Ave
+					8) 8 Ave & W 31 St
+					9) Broadway & E 14 st
+					10)8 Ave & W 33st
 
 * Today, what are the bottom 10 stations in the city for starting a journey? (Based on data, why?)
-	* It looks like most of the least popular start stations don't exist anymore, or are in industrial areas with lower incomes, and probably with a population that doesn't have a need for the citibike. Some of these are just warehouses for citibike that somehow are listed as stations and have trip start times.
+	* These seem to be outdated or no longer existing stations, or are in industrial areas with lower incomes. The population of some of these end points also do not have a high population start with. 
 	* In order of least popular: 	1) Crown St & Bedford Ave
 					2) GOW Tech Shop
 					3) Morningside Dr & Amsterdam Ave
@@ -52,33 +52,35 @@
 					10)Expansion Warehouse 333 Johnson Ave
 
 * Today, what are the bottom 10 stations in the city for ending a journey (Based on data, why?)
-	* Most of the bottom 10 stations for ending a journey are across the river in NJ. Understandably, people will not be riding their bikes across the river through a tunnel or on a ferry.
-	* In order of least popular: 	1) 5 Corners Library
-					2) Astor Place
-					3) Brunswick St
-					4) City Hall
-					5) Communipaw & Berry Lane
-					6) Lafayette PArk
-					7) Monmouth and 6th
-					8) Pathmark Depot
-					9) Reed St & Van Brunt St
-					10)Van Vorst Park
+	* Most of the bottom 10 stations for ending a journey are across a river in NJ. There is probably an inconveince of riding your bike alongside a river that goes through a tunnel.I
+		I can also imagine that the trail might be rougher. All of these stations only had one ride ended there
+		it could also be that these stations no longer exist. 
+					1) 333 Johnson Test 1
+					1) 8D Ops 01
+					3) City Hall
+					4) Columbus Drive
+					5) Dey St
+					60 JC Medical Center
+					7) Newark Ave
+					8) NJCU
+					9) NYCBS Depot - GOW Annez
+					10) SSP - Basement
 
 
 * Today, what is the gender breakdown of active participants (Male v. Female)?
-	* Male: 69%, Female: 23%
+	* Male: 73.3%, Female: 26.7%
 
 * How effective has gender outreach been in increasing female ridership over the course of the past three years?
-	* Cant answer this...dont have data for the past three years
+	* Only have data for summer months of 2017
 
 * How does the average trip duration change by age?
-	* It increases
+	* It increases peaking out at about the millenial age. 
 
 * What is the average distance in miles that a bike is ridden?
 	* 1.14 Miles
 
 * Which Bikes (by ID) are most likely due for repair or inspection this year? 
-	* Bike ID: 31815 most likely due for repair
+	* Bike ID: 27750, 25904, and 255 most likely due for repair
 
 * How variable is the utilization by bike ID?
 	* Very - a few bikes are utilized a lot, while the others are only used a handful of times.
